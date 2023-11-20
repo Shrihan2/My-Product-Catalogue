@@ -1,0 +1,14 @@
+body{
+    background-color:darkcyan;
+}
+table{
+    background-color:lightgray;
+    margin-top:75px;
+}
+td,th{
+    padding:8px;
+    text-align:center;
+    margin:5px;
+    border-width:3px;
+    font-weight:bold;
+}
